@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url("https://natureconservancy-h.assetsadobe.com/is/image/content/dam/tnc/nature/en/photos/tnc_69881045.jpg?crop=240,0,2400,1320&wid=4000&hei=2200&scl=0.6");
+    background-size: cover;
+    height: 500px;
+}
+
+.navbar-brand {
+    font-size: 2.5em;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lawngreen!important;
+}
